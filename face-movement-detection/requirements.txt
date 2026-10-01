@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+scikit-learn
+pandas
+joblib
+skl2onnx
+onnxruntime
+matplotlib
